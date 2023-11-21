@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: PyDT
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Luis
+    family-names: Madruga
+    name-suffix: Mad
+    name-particle: L
+    email: luis.madruga.03@gmail.com
+abstract: BIM Architect and DigitalTwin student.
+license: MIT
+commit: V0.0
+version: '0.0'
+date-released: '2023-11-22'
